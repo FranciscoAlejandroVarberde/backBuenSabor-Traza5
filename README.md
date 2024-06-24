@@ -1,8 +1,9 @@
-admin@test.com
+# usuarios
+- admin@test.com
 password: Admin123..
-cocinero@test.com
+- cocinero@test.com
 password: Cocinero123..
-cajero@test.com
+- cajero@test.com
 password: Cajero123..
-superadmin@test.com
+- superadmin@test.com
 password: Superadmin123..
